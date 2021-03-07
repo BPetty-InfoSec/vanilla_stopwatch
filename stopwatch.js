@@ -1,3 +1,5 @@
+// Code, html, and CSS from https://codepen.io/cathydutton/pen/GBcvo
+
 window .onload = function() {
     var seconds = 00;
     var tens = 00;
